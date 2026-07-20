@@ -14,7 +14,8 @@ De Maceió/AL para o mundo do desenvolvimento de software. Atualmente, estou con
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Python](https://shields.io) ![Git](https://shields.io) ![Docker](https://shields.io) ![NoSQL](https://shields.io)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 **Conceitos que aplico na prática:**
 * Comunicação de Rede (Sockets TCP/UDP, Broadcast)
@@ -36,8 +37,7 @@ De Maceió/AL para o mundo do desenvolvimento de software. Atualmente, estou con
 ### 📊 Meu Progresso no GitHub
 
 <div align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=MaxHSC&show_icons=true&theme=radical)" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=MaxHSC&show_icons=true&theme=radical)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxHSC&show_icons=true&theme=radical" />
 </div>
 
 ---
@@ -46,4 +46,4 @@ De Maceió/AL para o mundo do desenvolvimento de software. Atualmente, estou con
 
 Adoro trocar ideias, receber feedbacks e aprender com novas perspectivas. Sinta-se à vontade para se conectar!
 
-[![E-mail](https://shields.io)](mailto:maxhenriqu@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxhenriqu@gmail.com)
