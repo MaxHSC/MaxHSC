@@ -14,10 +14,7 @@ De Maceió/AL para o mundo do desenvolvimento de software. Atualmente, estou con
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Python](https://shields.io)
-![Git](https://shields.io)
-![Docker](https://shields.io)
-![NoSQL](https://shields.io)
+![Python](https://shields.io) ![Git](https://shields.io) ![Docker](https://shields.io) ![NoSQL](https://shields.io)
 
 **Conceitos que aplico na prática:**
 * Comunicação de Rede (Sockets TCP/UDP, Broadcast)
@@ -39,8 +36,8 @@ De Maceió/AL para o mundo do desenvolvimento de software. Atualmente, estou con
 ### 📊 Meu Progresso no GitHub
 
 <div align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=MaxHSC&show_icons=true&theme=radical)" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=MaxHSC&show_icons=true&theme=radical)" />
 </div>
 
 ---
